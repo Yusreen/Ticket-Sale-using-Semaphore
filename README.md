@@ -1,5 +1,5 @@
 # Ticket-Sale-using-Semaphore
-Ps. I found this questiOn online.
+Ps. I found this question online.
 A very simple example of a critical section that is protected by a
 semaphore lock. There is a global variable numTickets which tracks the
  number of tickets remaining to sell. We will create many threads that all
